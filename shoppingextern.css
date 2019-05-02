@@ -1,0 +1,150 @@
+body{
+    background: linear-gradient(90deg, #3F2B96 0%, #A8C0FF 100%);
+    margin:0 auto;
+    padding:0;
+}
+
+h3{font-family:DomCasual BT;
+    font-weight:bold;
+    font-size:25px;
+ }
+ .lang{
+     background-color:#dddde7;
+     float:right;
+     margin:10px;
+ }
+ select{
+     background-color:lightcyan;
+ }
+ .www{font-size:33px;
+ color:red;}
+ 
+ .signin{
+    transform:translate(550px,20px);
+    margin-left:150px;
+    position: absolute;
+    
+ }
+ i{
+     color:rgb(124, 145, 32);
+ }
+ 
+ 
+ 
+ 
+ .table{
+    position: absolute;
+     background-color:white;
+     height:690px;
+    padding-left:4px;
+     margin:20px;
+     width:190px;
+  
+
+ }
+ .datalist:hover{
+     color:red;
+     size:10px;
+ }
+ 
+ .category:hover{
+    margin:10px;
+    color:red;
+ }
+ a{text-decoration:none!important;
+    color:black;
+ }
+
+ .catbox input[type="search"],.catbox input[type="button"]{
+    border:thin solid #80e0b4 ;
+    transform:translate(350px,15px);
+    border-radius:30px;
+    padding:3px 9px 5px;
+    
+  
+}
+.catbox input[type="search"]:hover{
+    width:180px;
+    
+}
+.catbox input[type="button"]{
+    width:70px;
+    background-color:#80e0b4;
+}
+.catbox input[type="button"]:hover{
+    width:90px;
+    background-color:rgb(202, 88, 88);
+}
+#hotsale{
+    text-transform:uppercase;
+   transform:translate(280px, 40px);
+
+}
+hr{ position:absolute;
+    transform:translate(280px, 45px);
+   width:920px;
+    height:2px;
+    
+    background-color:grey;
+  
+}
+hr, #hotsale{
+    margin:2px;
+}
+#hotsale:hover{
+    color:red;
+}
+.mboxheading,strong{
+    transform:translate(580px,60px);
+   padding-top:4px;
+   margin:10px;
+   text-align:center;
+  }
+
+
+.mboxheading{
+    transform:translate(400px,60px);
+    background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+    overflow: hidden;
+    margin-left:-120px;
+    width:925px;
+    height:120px;
+    padding:10px 5px;
+}
+.mboxheading:hover{
+    color:red;}
+.pi-item{
+background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    transform:translate(280px,80px);
+    width:150px;
+    text-indent:30px;
+}
+
+.j_line2 {
+    font-style:normal;
+    
+}
+.adress{
+    float:bottom;
+    position: absolute;
+    text-align:center;
+    transform:translate(300px, 280px);
+}
+.fl:hover{
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+    color:red;
+}
+
+#discount{text-transform:uppercase;
+    transform:translate(280px, 140px);
+
+}
+#discount:hover{
+    color:red;
+}
+.pi-item2{
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+        transform:translate(280px,180px);
+        width:150px;
+        text-indent:30px;
+    }
